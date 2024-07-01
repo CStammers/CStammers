@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Connor Stammers
-- 👀 I’m interested in Front End & Full Stack Development
-- 🌱 I’m currently learning JavaScript, Node.js, and React.js
+- 👀 I’m interested in Back End & Full Stack Development
+- 🌱 I’m currently learning Python for Finance
 - 💞️ I’m looking to collaborate on Any projects
 - 📫 How to reach me: Email - connor.stammers@gmail.com  Phone - 07427054633
 
