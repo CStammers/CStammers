@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Connor Stammers
 - 👀 I’m interested in Back End & Full Stack Development
-- 🌱 I’m currently learning Python for Finance
+- 🌱 I’m currently learning shell scripting
 - 📫 How to reach me: Email - connor.stammers@gmail.com
 
 <!---
